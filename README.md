@@ -4,7 +4,7 @@
   👨‍💻 Systems Engineering student <br>
   🖥️ Beta Microsoft Learn Student Ambassador<br>
   🚩 GitHub Campus Expert<br>
-  Interests: ⚛️ Data Science, 👾 Artificial Intelligence, ☁ Cloud
+  Interests: ⚙️ Data Science, 👾 Artificial Intelligence, ☁ Cloud
   </i></b></p>
 <div>
 <h2> About me  </h2>
