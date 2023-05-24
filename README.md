@@ -16,11 +16,9 @@
 
 
 <p align="center">
-  <a href="https://in.linkedin.com/in/salman-dabbakuti-400479135" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="salmandabbakuti" height="20" width="20" /></a>
-<a href="https://dev.to/salmandabbakuti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="salmandabbakuti" height="20" width="20" /></a>
-<a href="https://twitter.com/salmandabbakuti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="salmandabbakuti" height="20" width="20" /></a>
-<a href="https://fb.com/dabbakuti.salmon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="dabbakuti.salmon" height="20" width="20" /></a>
-<a href="https://medium.com/@Salmandabbakuti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="salmandabbakuti" height="20" width="20" /></a>
+  <a href="https://in.linkedin.com/in/felipenarv28" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="salmandabbakuti" height="20" width="20" /></a>
+<a href="https://twitter.com/felipe_nrv" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" alt="salmandabbakuti" height="20" width="20" /></a>
+  
 </p>
 
 <!-- Note: Some logos I've used here are a trademark logos of the respective Companies.-->
