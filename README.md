@@ -11,7 +11,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="amazonwebservices" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" alt="xooa" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="ethereum" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="nodejs" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="javascript" width="50" height="50"/>
 
 
