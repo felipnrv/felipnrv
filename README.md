@@ -7,12 +7,12 @@
   </i></b></p>
 
 <p align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="hyperledger" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="amazonwebservices" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" alt="xooa" width="45" height="20"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="ethereum" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="javascript" width="20" height="20"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="hyperledger" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="amazonwebservices" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" alt="xooa" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="ethereum" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="javascript" width="50" height="50"/>
 
 
 <p align="center">
