@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Felipe N. </h1>
 
   <p align="left"><i><b>
-  💻 Systems Engineering student <br>
-  👾 Beta Microsoft Learn Student Ambassador<br>
+  👨‍💻 Systems Engineering student <br>
+  🖥️ Beta Microsoft Learn Student Ambassador<br>
   🚩 GitHub Campus Expert<br>
+  Interests: ⚛️ Data Science, 👾 Artificial Intelligence, ☁ Cloud
   </i></b></p>
 <div>
 <h2> About me  </h2>
