@@ -16,7 +16,7 @@
 
 
 <p align="center">
-  <a href="https://in.linkedin.com/in/felipenarv28" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="salmandabbakuti" height="20" width="20" /></a>
+  <a href="https://linkedin.com/in/felipenarv28" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="salmandabbakuti" height="20" width="20" /></a>
 <a href="https://twitter.com/felipe_nrv" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" alt="salmandabbakuti" height="20" width="20" /></a>
   
 </p>
