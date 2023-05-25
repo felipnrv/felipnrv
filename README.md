@@ -19,9 +19,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="nodejs" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="javascript" width="50" height="50"/>
 
-<p aling="center">  
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipnrv&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
-</p>  
+<div> 
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipnrv&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |  
+</div>
+  
 </div>
 
 <p align="center">
