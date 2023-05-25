@@ -19,8 +19,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="nodejs" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="javascript" width="50" height="50"/>
 
-| ![Pranshu Patel's github stats](https://github-readme-stats.vercel.app/api?username=felipnrv&theme=default&hide_border=false&include_all_commits=true&count_private=true) | ![Pranshu Patel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=felipnrv&theme=default&hide_border=false&include_all_commits=true&count_private=true) |
-| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipnrv&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | ![Github Trophy](https://github-profile-trophy.vercel.app/?username=felipnrv&include_all_commits=true&count_private=true) |
+
   
 </div>
 
