@@ -20,9 +20,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="javascript" width="50" height="50"/>
 
 
-<div style="display: flex; flex-direction: row;">
+<p align="center">
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipnrv&theme=radical&layout=compact" />
-</div>
+</p>
 
   
 </div>
