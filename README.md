@@ -20,7 +20,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="javascript" width="50" height="50"/>
 
 
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipnrv&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |  
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=hussaino03&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hussaino03&theme=radical&layout=compact" />
+</div>
 
   
 </div>
