@@ -19,6 +19,16 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="nodejs" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="javascript" width="50" height="50"/>
 
+<br>
+
+<h3>Statistical Data :-</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=felipnrv&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="adam-pw" 
+    bg_color=#808080/></p>
+
+<br>  
+  
 </div>
 
 <p align="center">
