@@ -19,15 +19,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="nodejs" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="javascript" width="50" height="50"/>
 
-<br>
-
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src=[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipnrv&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-    alt="adam-pw" 
-    bg_color=#808080/></p>
-
-<br>  
+| ![Pranshu Patel's github stats](https://github-readme-stats.vercel.app/api?username=felipnrv&theme=default&hide_border=false&include_all_commits=true&count_private=true) | ![Pranshu Patel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=felipnrv&theme=default&hide_border=false&include_all_commits=true&count_private=true) |
+| --- | --- |
   
 </div>
 
