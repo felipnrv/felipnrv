@@ -7,7 +7,7 @@
   <img src="https://media4.giphy.com/media/LrMBxuVKqDHCOJ79fP/giphy.gif?cid=ecf05e47wjry0t76ho0lwpqqrmgxjbigsfbv95j8um8hsvhw&rid=giphy.gif&ct=s" width=55px align="right"/>
   👨‍💻 Systems Engineering student <br>
   🖥️ Beta Microsoft Learn Student Ambassador<br>
-  🚩 GitHub Campus Expert<br>
+  
   Interests: ⚙️ Data Science, 👾 Artificial Intelligence, ☁ Cloud
   
   
